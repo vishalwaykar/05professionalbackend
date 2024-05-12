@@ -1,0 +1,19 @@
+{
+  "name": "05professionalbackend",
+  "version": "1.0.0",
+  "description": "professional backend repo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "professional"
+  ],
+  "author": "Vishal Waykar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
